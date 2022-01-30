@@ -1,0 +1,12 @@
+.search {
+    display: flex;
+    margin: 15px 0;
+  }
+.s-tab{
+    display: flex;
+    left: 50%;
+}
+.t-tab{
+    justify-content: center;
+  
+}
